@@ -1,0 +1,11 @@
+C:\Users\Mohd Yaseen\source\repos\Electric-meter_reading\obj\Debug\netcoreapp3.1\Electric-meter_reading.csprojAssemblyReference.cache
+C:\Users\Mohd Yaseen\source\repos\Electric-meter_reading\obj\Debug\netcoreapp3.1\Electric-meter_reading.AssemblyInfoInputs.cache
+C:\Users\Mohd Yaseen\source\repos\Electric-meter_reading\obj\Debug\netcoreapp3.1\Electric-meter_reading.AssemblyInfo.cs
+C:\Users\Mohd Yaseen\source\repos\Electric-meter_reading\bin\Debug\netcoreapp3.1\Electric-meter_reading.exe
+C:\Users\Mohd Yaseen\source\repos\Electric-meter_reading\bin\Debug\netcoreapp3.1\Electric-meter_reading.deps.json
+C:\Users\Mohd Yaseen\source\repos\Electric-meter_reading\bin\Debug\netcoreapp3.1\Electric-meter_reading.runtimeconfig.json
+C:\Users\Mohd Yaseen\source\repos\Electric-meter_reading\bin\Debug\netcoreapp3.1\Electric-meter_reading.runtimeconfig.dev.json
+C:\Users\Mohd Yaseen\source\repos\Electric-meter_reading\bin\Debug\netcoreapp3.1\Electric-meter_reading.dll
+C:\Users\Mohd Yaseen\source\repos\Electric-meter_reading\bin\Debug\netcoreapp3.1\Electric-meter_reading.pdb
+C:\Users\Mohd Yaseen\source\repos\Electric-meter_reading\obj\Debug\netcoreapp3.1\Electric-meter_reading.dll
+C:\Users\Mohd Yaseen\source\repos\Electric-meter_reading\obj\Debug\netcoreapp3.1\Electric-meter_reading.pdb

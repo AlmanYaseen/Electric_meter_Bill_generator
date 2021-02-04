@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Electric-meter_reading/1.0.0": {
+        "runtime": {
+          "Electric-meter_reading.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Electric-meter_reading/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
